@@ -1,4 +1,4 @@
-# Superior Servers Launcher Update Logs
+## Superior Servers Launcher Update Logs
 
 **All Updates From Version <1.0 - 1.1> Are Stored Here, Including The Original Download Files**
 
