@@ -18,6 +18,7 @@ A warning like this should appear. Click the underlined text called **More Info*
 -And there you have it, SUP Launcher should be up and running!
 ## Linux Users
 **Trust me, it looks long, but this installation is easy**
+
 Before installing, you just install microsofts fonts package so all the text inside the launcher displays properly.
 -Open up the **Terminal** app
 
