@@ -1,5 +1,4 @@
 import sys
-import subprocess
 import webbrowser
 from os import listdir
 from os.path import isfile, join
