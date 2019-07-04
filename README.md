@@ -6,7 +6,7 @@ Sup launcher was designed to help easily load into SUP server of your choosing, 
 # How To Install
 
 ## Windows Users
-Download the **[suplauncer.exe](https://github.com/itsretr0n/suplauncher/releases/download/1.0.0/suplauncher.exe)** file. Once downloaded, double click to run.
+Download the **[suplauncher.exe](https://github.com/itsretr0n/suplauncher/releases/download/1.0.0/suplauncher.exe)** file. Once downloaded, double click to run.
 ## Linux Users
 **Trust me, it looks long, but this installation is easy**
 Before installing, you just install microsofts fonts package so all the text inside the launcher displays properly.
