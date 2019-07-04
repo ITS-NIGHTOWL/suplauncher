@@ -98,22 +98,22 @@ class Form(QObject):
 
     #Main Functions
     def join_danktown(self):
-        subprocess.run("start steam://connect/RP.SuperiorServers.co:27015", shell=True)
+        webbrowser.open('steam://connect/RP.SuperiorServers.co:27015')
     def join_c18(self):
-        subprocess.run("start steam://connect/RP2.SuperiorServers.co:27015", shell=True)
+        webbrowser.open('steam://connect/RP2.SuperiorServers.co:27015')
     def join_zombies(self):
-        subprocess.run("start steam://connect/ZRP.SuperiorServers.co:27015", shell=True)
+        webbrowser.open('steam://connect/ZRP.SuperiorServers.co:27015')
     def darkrp_rules(self):
         webbrowser.open('https://superiorservers.co/darkrp/rules')
 
 
     #Others Functions
     def join_military(self):
-        subprocess.run("start steam://connect/MilRP.SuperiorServers.co:27015", shell=True)      
+        webbrowser.open('steam://connect/MilRP.SuperiorServers.co:27015')
     def join_clonewars(self):
-        subprocess.run("start steam://connect/CWRP.SuperiorServers.co:27015", shell=True) 
+        webbrowser.open('steam://connect/CWRP.SuperiorServers.co:27015')
     def join_clonewarsevents(self):
-        subprocess.run("start steam://connect/CWRP2.SuperiorServers.co:27015", shell=True) 
+        webbrowser.open('steam://connect/CWRP2.SuperiorServers.co:27015')
     def militaryrp_rules(self):
         webbrowser.open('https://superiorservers.co/ssrp/milrp/rules')
     def clonewarsrp_rules(self):
