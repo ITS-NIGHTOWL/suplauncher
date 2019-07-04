@@ -19,7 +19,7 @@ A warning like this should appear. Click the underlined text called **More Info*
 ## Linux Users
 **Trust me, it looks long, but this installation is easy**
 
-Before installing, you just install microsofts fonts package so all the text inside the launcher displays properly.
+Before installing, you need to install microsofts fonts package so all the text inside the launcher displays properly.
 -Open up the **Terminal** app
 
 -Paste in the follow command. Wait for the download to finish: **`sudo apt-get update`**
