@@ -10,12 +10,20 @@ Download the **[suplauncer.exe](https://github.com/itsretr0n/suplauncher/release
 ## Linux Users
 **Trust me, it looks long, but this installation is easy**
 Before installing, you just install microsofts fonts package so all the text inside the launcher displays properly.
+
 -Open up the **Terminal** app
+
 -Paste in the follow command. Wait for the download to finish: **`sudo apt-get update`**
+
 -Then paste: **`sudo apt-get install ttf-mscorefonts-installer`**
+
 -Agree to the terms that pop up
+
 -Once download finishes, enter this final command: **`sudo fc-cache -f -v`**
+
 -When the commands finished running, download the zip file named: 
 **[linux-suplauncher](https://github.com/itsretr0n/suplauncher/releases/download/1.0.0/linux-suplauncher.zip)**.
+
 -Once downloaded, unzip it.
+
 -In the directory you unzipped it, go into the folder extracted called **linux-suplauncher**, then **launcher**. Inside there, double click the file called **sup** and the launcher should start running!
