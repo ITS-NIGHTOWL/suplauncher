@@ -1,3 +1,4 @@
+
 # Introducing Superior Servers Launcher v1.0!
 ## We all know loading into garrys mod can sometimes take time, and lets be honest with ourselves, were impatient!
 Sup launcher was designed to help easily load into SUP server of your choosing, with the easy click of a button. Future version will also come with a dupe downloader, texture modifier, and a garrys mod launch settings configuration menu
@@ -5,20 +6,21 @@ Sup launcher was designed to help easily load into SUP server of your choosing, 
 # How To Install
 
 ## Windows Users
--Download the **[suplauncher.exe](https://github.com/itsretr0n/suplauncher/releases/download/1.0.0/suplauncher.exe)** file.
+-Download the **[SuperiorLauncher.exe](https://github.com/itsretr0n/suplauncher/releases/download/1.0.2/SuperiorLauncher.exe)** file.
 
 ![https://raw.githubusercontent.com/itsretr0n/suplauncher/master/sup-launcher/installation-pictures/warning1.PNG](https://raw.githubusercontent.com/itsretr0n/suplauncher/master/sup-launcher/installation-pictures/warning1.PNG)
-A warning like this should appear. Press the right arrow, and select the option **keep**
+If a warning like this appears, press the right arrow, and select the option **keep**
 
--Once download is completed, double click **suplauncher.exe** file which should be located in your *Downloads* directory
+-Once download is completed, double click **SuperiorLauncher.exe** file which should be located in your *Downloads* directory
 ##
 ![https://github.com/itsretr0n/suplauncher/blob/master/sup-launcher/installation-pictures/warning2.PNG?raw=true](https://github.com/itsretr0n/suplauncher/blob/master/sup-launcher/installation-pictures/warning2.PNG?raw=true)
 A warning like this should appear. Click the underlined text called **More Info**, then press the button **Run Anyway**
 
 -And there you have it, SUP Launcher should be up and running!
+
+**IF it doesn't run, install this:** https://www.microsoft.com/en-ca/download/details.aspx?id=5555
 ## Linux Users
 **Trust me, it looks long, but this installation is easy**
-
 Before installing, you need to install microsofts fonts package so all the text inside the launcher displays properly.
 -Open up the **Terminal** app
 
@@ -31,7 +33,7 @@ Before installing, you need to install microsofts fonts package so all the text 
 -Once download finishes, enter this final command: **`sudo fc-cache -f -v`**
 
 -When the commands finished running, download the zip file named: 
-**[linux-suplauncher](https://github.com/itsretr0n/suplauncher/releases/download/1.0.0/linux-suplauncher.zip)**.
+**[linux-suplauncher](https://github.com/itsretr0n/suplauncher/releases/download/1.0.2/linux-suplauncher.zip)**.
 
 -Once downloaded, unzip it.
 
