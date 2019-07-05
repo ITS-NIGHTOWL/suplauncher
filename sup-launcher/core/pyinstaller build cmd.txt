@@ -1,6 +1,10 @@
 # You only need this file if your building sup launcher by itself
 # Run this line to build with the ui file.
-pyinstaller --onefile --windowed --icon=app.ico --add-data window.ui;. main.py
+
+pyinstaller --onedir --windowed --icon=app.ico --add-data window.ui;. main.py
+
+
 
 #Ubuntu CMD
+
 /home/chris/.local/bin/pyinstaller --onefile --windowed --icon=app.ico --add-data window.ui:. main.py
