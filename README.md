@@ -8,9 +8,6 @@ Sup launcher was designed to help easily load into SUP server of your choosing, 
 ## Windows Users
 -Download the **[SuperiorLauncher.exe](https://github.com/itsretr0n/suplauncher/releases/download/1.0.2/SuperiorLauncher.exe)** file.
 
-![https://raw.githubusercontent.com/itsretr0n/suplauncher/master/sup-launcher/installation-pictures/warning1.PNG](https://raw.githubusercontent.com/itsretr0n/suplauncher/master/sup-launcher/installation-pictures/warning1.PNG)
-If a warning like this appears, press the right arrow, and select the option **keep**
-
 -Once download is completed, double click **SuperiorLauncher.exe** file which should be located in your *Downloads* directory
 ##
 ![https://github.com/itsretr0n/suplauncher/blob/master/sup-launcher/installation-pictures/warning2.PNG?raw=true](https://github.com/itsretr0n/suplauncher/blob/master/sup-launcher/installation-pictures/warning2.PNG?raw=true)
